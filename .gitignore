@@ -1,0 +1,33 @@
+### Flutter ###
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+
+### Dart ###
+*.iml
+.packages
+
+# Build output
+/build/
+
+# IntelliJ project files
+.idea/
+
+# Android Studio project files
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+.DS_Store
+*.apk
+*.apks
+*.zip
+
+#Generated files
+/ios/Flutter/AppFrameworkInfo.plist
+/macos/Flutter/Flutter.podspec
+
+# Logs and temp files
+*.log
+*.tmp
